@@ -1,0 +1,31 @@
+respondent_id,tried_events,got_tickets,minutes_spent,stress_1to5,checks_for_releases,used_scalper,value_1to5,willing_to_pay,fair_monthly_ntd
+r01,2-3,No,60-180,5,Yes manually,No,5,Yes,100-199
+r02,1,Partly,15-60,4,Yes manually,Considered,4,Yes,50-99
+r03,4+,No,>180,5,Yes with a tool,No,5,Yes,200+
+r04,1,Yes,<15,2,No,No,2,Only if free,0
+r05,2-3,No,60-180,5,Yes manually,Yes,5,Yes,100-199
+r06,2-3,Partly,15-60,4,Yes manually,No,4,Yes,50-99
+r07,1,No,60-180,5,Yes manually,Considered,5,Yes,100-199
+r08,4+,No,>180,5,Yes with a tool,No,5,Yes,200+
+r09,1,Yes,15-60,3,No,No,3,Only if free,0
+r10,2-3,No,60-180,4,Yes manually,No,4,Yes,50-99
+r11,1,Partly,15-60,4,Yes manually,No,5,Yes,100-199
+r12,2-3,No,>180,5,Yes manually,Considered,5,Yes,100-199
+r13,1,Yes,<15,1,No,No,2,No,0
+r14,4+,No,60-180,5,Yes with a tool,No,5,Yes,200+
+r15,2-3,Partly,60-180,4,Yes manually,No,4,Yes,50-99
+r16,1,No,15-60,4,Yes manually,Considered,4,Yes,50-99
+r17,2-3,No,60-180,5,Yes manually,No,5,Yes,100-199
+r18,1,Yes,15-60,3,No,No,3,Only if free,0
+r19,2-3,No,>180,5,Yes manually,No,5,Yes,100-199
+r20,1,Partly,15-60,4,Yes manually,No,4,Yes,50-99
+r21,4+,No,>180,5,Yes with a tool,Yes,5,Yes,200+
+r22,2-3,No,60-180,5,Yes manually,No,5,Yes,100-199
+r23,1,Yes,<15,2,No,No,2,Only if free,0
+r24,2-3,No,60-180,4,Yes manually,No,4,Yes,50-99
+r25,1,No,60-180,5,Yes manually,Considered,5,Yes,100-199
+r26,2-3,Partly,15-60,4,Yes manually,No,4,Yes,50-99
+r27,4+,No,>180,5,Yes with a tool,No,5,Yes,200+
+r28,1,Yes,15-60,3,No,No,3,No,0
+r29,2-3,No,60-180,5,Yes manually,No,5,Yes,100-199
+r30,1,No,15-60,4,Yes manually,Considered,4,Yes,50-99

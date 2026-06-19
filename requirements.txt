@@ -1,0 +1,18 @@
+# The core demo (python run_demo.py) runs on the Python standard library ONLY.
+# Install the extras below for the optional components noted next to each.
+
+# Dashboard (delivery/dashboard/app.py)
+streamlit>=1.30
+pandas>=2.0
+
+# Release-pattern chart (processing/batch_analysis.py, optional PNG output)
+matplotlib>=3.7
+
+# Live demand collection template (demand_research/scrape_forums.py --live)
+requests>=2.31
+beautifulsoup4>=4.12
+
+# Scalable mode only (docker-compose)
+kafka-python>=2.0
+redis>=5.0
+psycopg2-binary>=2.9

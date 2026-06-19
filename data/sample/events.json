@@ -1,0 +1,38 @@
+[
+  {
+    "event_id": "aurora-2026-kh",
+    "name": "AURORA World Tour 2026 — Kaohsiung",
+    "venue": "Kaohsiung National Stadium",
+    "on_sale": "2026-05-01T12:00:00+08:00",
+    "show_time": "2026-07-12T19:30:00+08:00",
+    "sections": [
+      {"section": "VIP-A", "price": 6800},
+      {"section": "1F-Red", "price": 5800},
+      {"section": "2F-Blue", "price": 3800},
+      {"section": "3F-Green", "price": 2000}
+    ]
+  },
+  {
+    "event_id": "nova-2026-tp",
+    "name": "NOVA Live in Taipei 2026",
+    "venue": "Taipei Arena",
+    "on_sale": "2026-05-10T12:00:00+08:00",
+    "show_time": "2026-06-28T19:00:00+08:00",
+    "sections": [
+      {"section": "Floor-A", "price": 5200},
+      {"section": "Floor-B", "price": 4200},
+      {"section": "Stand-201", "price": 2800}
+    ]
+  },
+  {
+    "event_id": "indiefest-2026-tc",
+    "name": "Indie Fest 2026 — Taichung",
+    "venue": "Taichung Intercontinental",
+    "on_sale": "2026-04-20T12:00:00+08:00",
+    "show_time": "2026-08-15T17:00:00+08:00",
+    "sections": [
+      {"section": "GA-Standing", "price": 2400},
+      {"section": "Seated-2F", "price": 1800}
+    ]
+  }
+]

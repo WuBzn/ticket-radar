@@ -1,0 +1,34 @@
+# Secrets / environment
+.env
+*.env
+!.env.example
+cookies.txt
+credentials.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+.ipynb_checkpoints/
+
+# Local databases / generated data (don't commit raw or personal data)
+*.db
+*.sqlite
+*.sqlite3
+data/raw/
+data/cache/
+demand_research/collected_posts.csv
+docs/release_pattern.png
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
